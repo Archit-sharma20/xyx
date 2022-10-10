@@ -1,0 +1,21 @@
+US address generator
+Street	8054 Rolling Rd
+City/Town	Springfield
+State/Province/Region	Vermont
+Zip/Postal Code	22153
+Phone Number	(703) 455-1188
+Country	United States
+Latitude	38.740312
+Longitude	-77.212714
+
+
+
+Matched person profile
+Full Name	Mr. Enid Rippin
+Gender	male
+Birthday	1973-11-12
+Social Security Number	129-98-8410
+
+
+
+The College of Southern NevadaApplication for Admission-DCS - 7/1/16 8:30 PM ISTStatus: AppliedSubmitted On: 9/21/22 10:39 AM IST
